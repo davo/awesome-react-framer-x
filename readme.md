@@ -11,7 +11,7 @@ This is an awesome list of links to courses, tutorials & videos to learn everyth
 - [Courses](#courses)
 - [Tutorials](#tutorials)
 - [Articles](#articles)
-- [Meetups](#meetups)
+- [Meetups](#communities-meetups-and-more)
 
 
 ## Courses
@@ -27,6 +27,8 @@ This is an awesome list of links to courses, tutorials & videos to learn everyth
 
 ### Paid React Courses
 
+
+* [Learn React](https://learnreact.design/) - Unleash Your Design Superpowers with this straightforward, with just enough JS, focused on UI design, layouts, styles and animations, by [@lintonye](https://twitter.com/lintonye).
 * [React For Beginners](https://reactforbeginners.com/) - [Source Code](https://github.com/wesbos/React-For-Beginners-Starter-Files) - Learn React.js in just a couple of afternoons, by [@wesbos](https://twitter.com/wesbos)
 * [Udemy: The Complete React Web Developer Course (with Redux)](https://www.udemy.com/react-2nd-edition/) - Learn how to build and launch React web applications using React v16.
 * [Udemy: Modern React with Redux](https://www.udemy.com/react-redux/) - Fundamentals of React, Redux, React Router, Webpack and ES6, by [@ste_grider](https://twitter.com/ste_grider)
@@ -63,7 +65,7 @@ and master all that ES6 has to offer, by [@wesbos](https://twitter.com/wesbos)
 * [Discussion forum at discuss.reactjs.org](https://discuss.reactjs.org/) - This forum is a great place for discussion about best practices and application architecture as well as the future of React.
 * [React.js meetup groups](https://www.meetup.com/topics/reactjs/): A great way to learn React.js is to get involved with their amazing community. There are more then 500 meetups around the world. Join!
 * [Spectrum.chat/react](https://spectrum.chat/react) - A community of developers, designers and others who love React.js.
-* [Framer React Slack Channel](slack://framer.slack.com/app_redirect?channel=react) - If you have questions, resources or just want to share something, join us! 
+* [Framer React Slack Channel](https://framer.slack.com/app_redirect?channel=react) - If you have questions, resources or just want to share something, join us!
 
 ---
 
