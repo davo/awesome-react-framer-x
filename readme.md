@@ -41,8 +41,12 @@ and master all that ES6 has to offer, by [@wesbos](https://twitter.com/wesbos)
 
 ## Tutorials
 
-[Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
- - Build a game. Master the fundamentals to create a React app.
+* [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html) - Build a game. Master the fundamentals to create a React app.
+* [What Is React?](https://learnreact.design/2017/06/08/what-is-react/) - React terms in plain English and doodles.
+* [Build with react - Tutorial](http://buildwithreact.com/tutorial) - Learn React quickly with this interactive tutorial.
+* [React Tutorial for Beginners
+](https://ihatetomatoes.net/react-tutorial-for-beginners/) - This React tutorial will explain everything in simple terms and plain English so you don’t feel overwhelmed or frustrated while learning React, by [@ihatetomatoes](https://twitter.com/ihatetomatoes)
+* [React Tutorial](https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/) - A Comprehensive Guide to learning React.js in 2018.
 
 ## Articles
 
@@ -59,6 +63,7 @@ and master all that ES6 has to offer, by [@wesbos](https://twitter.com/wesbos)
 * [Discussion forum at discuss.reactjs.org](https://discuss.reactjs.org/) - This forum is a great place for discussion about best practices and application architecture as well as the future of React.
 * [React.js meetup groups](https://www.meetup.com/topics/reactjs/): A great way to learn React.js is to get involved with their amazing community. There are more then 500 meetups around the world. Join!
 * [Spectrum.chat/react](https://spectrum.chat/react) - A community of developers, designers and others who love React.js.
+* [Framer React Slack Channel](slack://framer.slack.com/app_redirect?channel=react) - If you have questions, resources or just want to share something, join us! 
 
 ---
 
