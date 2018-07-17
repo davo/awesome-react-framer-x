@@ -9,6 +9,7 @@ This is an awesome list of links to courses, tutorials & videos to learn everyth
 ## Table of Contents
 
 - [Courses](#courses)
+- [Tools](#tools)
 - [Tutorials](#tutorials)
 - [Articles](#articles)
 - [Meetups](#communities-meetups-and-more)
@@ -32,7 +33,14 @@ This is an awesome list of links to courses, tutorials & videos to learn everyth
 * [React For Beginners](https://reactforbeginners.com/) - [Source Code](https://github.com/wesbos/React-For-Beginners-Starter-Files) - Learn React.js in just a couple of afternoons, by [@wesbos](https://twitter.com/wesbos)
 * [Udemy: The Complete React Web Developer Course (with Redux)](https://www.udemy.com/react-2nd-edition/) - Learn how to build and launch React web applications using React v16.
 * [Udemy: Modern React with Redux](https://www.udemy.com/react-redux/) - Fundamentals of React, Redux, React Router, Webpack and ES6, by [@ste_grider](https://twitter.com/ste_grider)
-* [Treehouse: Learn React:](https://teamtreehouse.com/tracks/learn-react) - Get up and running with React, a JavaScript library for building user interfaces, by
+* [Treehouse: Learn React:](https://teamtreehouse.com/tracks/learn-react) - Get up and running with React, a JavaScript library for building user interfaces, by [@jimrhoskins](https://twitter.com/jimrhoskins).
+
+### Tools, Online Editors & REPLs
+
+* [Codesandbox](https://codesandbox.io/dashboard) - CodeSandbox is an online editor that helps you create web applications, from prototype to deployment.
+* [Iso](https://compositor.io/iso/) - Build and prototype with pure JSX – no build setup or command line required.
+* [Guppy](https://github.com/joshwcomeau/guppy) - A friendly application manager and task runner for React.js.
+* [Alva](https://github.com/meetalva/alva) - Alva is a radically new digital design tool built for cross-functional product teams (React based Design Tool, in beta).
 
 ### ES6 Essentials
 
