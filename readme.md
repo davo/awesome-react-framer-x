@@ -9,7 +9,7 @@ This is an awesome list of links to courses, tutorials & videos to learn everyth
 ## Table of Contents
 
 - [Courses](#courses)
-- [Tools](#tools)
+- [Tools](#tools-online-editors--repls)
 - [Tutorials](#tutorials)
 - [Articles](#articles)
 - [Meetups](#communities-meetups-and-more)
