@@ -14,7 +14,6 @@ This is an awesome list of links to courses, tutorials & videos to learn everyth
 - [Articles](#articles)
 - [Meetups](#communities-meetups-and-more)
 
-
 ## Courses
 
 ### Free React Courses
@@ -62,6 +61,8 @@ and master all that ES6 has to offer, by [@wesbos](https://twitter.com/wesbos)
 
 ### React Articles
 
+
+* [JavaScript fundamentals before learning React](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/) - "Often I find myself explaining more JS than React when teaching React in a workshop/online. That's why I have put all the important JS fundamentals (for React) in one extensive article" - by [@rwieruch](https://twitter.com/rwieruch).
 * [How to Learn React: A Five-Step Plan](https://www.lullabot.com/articles/how-to-learn-react) - These five steps, which should take a dedicated student about a week, will provide the foundation you need to get started, by [@__jhannah](https://twitter.com/__jhannah).
 * [Learn React.js in 5 minutes](https://medium.freecodecamp.org/learn-react-js-in-5-minutes-526472d292f4) - A quick introduction to the popular JavaScript library, by Per Harald Borgen.
 * [Learning React.js is easier than you think](https://edgecoders.com/learning-react-js-is-easier-than-you-think-fbd6dc4d935a) - Learn the fundamentals of React.js in one Medium article.
