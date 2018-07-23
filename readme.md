@@ -41,6 +41,7 @@ This is an awesome list of links to courses, tutorials & videos to learn everyth
 * [Iso](https://compositor.io/iso/) - Build and prototype with pure JSX – no build setup or command line required.
 * [Guppy](https://github.com/joshwcomeau/guppy) - A friendly application manager and task runner for React.js.
 * [Alva](https://github.com/meetalva/alva) - Alva is a radically new digital design tool built for cross-functional product teams (React based Design Tool, in beta).
+* [HTMLtoJSX](https://magic.reactjs.net/htmltojsx.htm) - A web based tool that converts HTML to JSX compatible with React (v15).
 * [React Patterns](https://reactpatterns.com/) - A comprehensive collection of 17 React patterns and practices, by [@chantastic](https://twitter.com/chantastic).
 * [React Cheat Sheet](https://reactcheatsheet.com/) - An interactive documentation tool for the latest React API, by [@chantastic](https://twitter.com/chantastic).
 
@@ -71,9 +72,9 @@ and master all that ES6 has to offer, by [@wesbos](https://twitter.com/wesbos)
 * [Learning React.js is easier than you think](https://edgecoders.com/learning-react-js-is-easier-than-you-think-fbd6dc4d935a) - Learn the fundamentals of React.js in one Medium article.
 
 
-## Communities, meetups and more.
+## Other lists, communities, meetups and more.
 
-
+* [Awesome React](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
 * [Discussion forum at discuss.reactjs.org](https://discuss.reactjs.org/) - This forum is a great place for discussion about best practices and application architecture as well as the future of React.
 * [React.js meetup groups](https://www.meetup.com/topics/reactjs/): A great way to learn React.js is to get involved with their amazing community. There are more then 500 meetups around the world. Join!
 * [Spectrum.chat/react](https://spectrum.chat/react) - A community of developers, designers and others who love React.js.
