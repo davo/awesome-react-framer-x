@@ -1,17 +1,29 @@
 # Awesome React Framer X [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-This is an awesome list of links to courses, tutorials & videos to learn everything about [React](https://reactjs.org/) and [ES6](https://tc39.github.io/ecma262/).
+This is an awesome list with links to courses, tutorials & videos to learn everything about [React](https://reactjs.org/) and [ES6](https://tc39.github.io/ecma262/).
 
-### Why React & ES6?
+## Why React & ES6?
 
-[Framer X](https://framer.com/blog/posts/x-announcement) is coming soon. We already know that CoffeeScript will not be part of this new product. Components in Framer X are going to be ES6 and React.
+**[Framer X](https://framer.com/x) Beta** will roll out starting August 1st. FX will be powered by `React`. Allowing to use actual `ES6` & `Typescript` code on our projects. This also promotes reusability, by adding existing React components & libraries to your workflow or creating and publishing new components on the Design Store.
 
-## Table of Contents
+If you want to learn more about React, [@zach\_\_johnston](https://twitter.com/zach__johnston) made [React for Designers](http://reactfordesigners.com/) to help you avoid the option paralysis.
 
-- [Free Courses](#free-react-courses)
-- [Paid Courses](#paid-react-courses)
+### Framer X: What we know so far
+
+- [x] `coffeeScript` will not be part of Framer X.
+- [x] Framer X will be entirely based on `ES6` and `React`.
+- [x] `Framer.js` will be ported into a set of `React` helpers for animation, gestures and interpolation. It will be open source.
+- [x] Code based components will support `ES6` and/or `Typescript`.
+- [ ] CSS-in-JS for code components via `stijl` & [`glamor`](https://github.com/threepointone/glamor) _unconfirmed_.
+- [x] Framer X will not have a code editor. You can use any code editor of our choice.
+
+## Index
+
+- [Free React Courses](#free-react-courses)
+- [Paid React Courses](#paid-react-courses)
+- [ES6 Courses](#es6-courses)
 - [Tools](#tools-online-editors--repls)
-- [ES6 Essentials](#es6-essentials)
+- [Code Editors](#code-editors)
 - [Tutorials](#tutorials)
 - [Articles](#articles)
 - [Meetups](#communities-meetups-and-more)
@@ -23,6 +35,7 @@ This is an awesome list of links to courses, tutorials & videos to learn everyth
 - [Codecademy - React 101](https://www.codecademy.com/learn/react-101) - Develop a strong understanding of React's most essential concepts.
 - [Egghead.io: Start Learning React](https://egghead.io/courses/start-learning-react) - Explore the basic fundamentals of React to get you started, by [@joemaddalone](https://twitter.com/joemaddalone).
 - [Egghead.io: The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react) - For React newbies and those looking to get a better understanding of React fundamentals, by [@kentcdodds](https://twitter.com/kentcdodds).
+- [React Crash Course 2018](https://www.youtube.com/watch?v=Ke90Tje7VS0) - Learn React - React Tutorial with examples, by [@moshhamedani](http://www.twitter.com/moshhamedani)
 - [ReactJS Crash Course](https://youtu.be/A71aqufiNtQ) - Learn the fundamentals of React.js, by [@traversymedia](https://twitter.com/traversymedia) - [Source Code](https://github.com/bradtraversy/projectmanager).
 - [React JS Tutorials](https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b) - Get quickly up to pace with React.js development by LearnCode.academy.
 - [React Armory Learn React by Itself](https://reactarmory.com/guides/learn-react-by-itself) - Learn React without the buzzwords, by [@james_k_nelson](https://twitter.com/james_k_nelson).
@@ -37,30 +50,44 @@ This is an awesome list of links to courses, tutorials & videos to learn everyth
 - [Udemy: The Complete React Web Developer Course (with Redux)](https://www.udemy.com/react-2nd-edition/) - Learn how to build and launch React web applications using React v16.
 - [Udemy: Modern React with Redux](https://www.udemy.com/react-redux/) - Fundamentals of React, Redux, React Router, Webpack and ES6, by [@ste_grider](https://twitter.com/ste_grider)
 - [Treehouse: Learn React:](https://teamtreehouse.com/tracks/learn-react) - Get up and running with React, a JavaScript library for building user interfaces, by [@jimrhoskins](https://twitter.com/jimrhoskins).
+-
 
-### Tools, Online Editors & REPLs
-
-- [Codesandbox](https://codesandbox.io/dashboard) - CodeSandbox is an online editor that helps you create web applications, from prototype to deployment.
-- [Iso](https://compositor.io/iso/) - Build and prototype with pure JSX – no build setup or command line required.
-- [Guppy](https://github.com/joshwcomeau/guppy) - A friendly application manager and task runner for React.js.
-- [Alva](https://github.com/meetalva/alva) - Alva is a radically new digital design tool built for cross-functional product teams (React based Design Tool, in beta).
-- [HTMLtoJSX](https://magic.reactjs.net/htmltojsx.htm) - A web based tool that converts HTML to JSX compatible with React (v15).
-- [React Patterns](https://reactpatterns.com/) - A comprehensive collection of 17 React patterns and practices, by [@chantastic](https://twitter.com/chantastic).
-- [React Cheat Sheet](https://reactcheatsheet.com/) - An interactive documentation tool for the latest React API, by [@chantastic](https://twitter.com/chantastic).
-
-### ES6 Essentials
+### ES6 Courses
 
 - [Learn ES6](https://egghead.io/courses/learn-es6-ecmascript-2015) - This course takes a look at some of the new features of ES6, by [@johnlindquist](https://twitter.com/johnlindquist).
 - [ES6 for Everyone](https://es6.io/) - Improve your core JavaScript skills and master all that ES6 has to offer, by [@wesbos](https://twitter.com/wesbos).
 - [Introduction to ES6+](https://scrimba.com/g/gintrotoes6) - Learn modern JavaScript through 23 screencasts, by Per Harald Borgen - [Article](https://medium.freecodecamp.org/want-to-learn-es6-take-this-free-23-part-course-and-become-a-javascript-ninja-55002db1ff74).
+-
+
+### React based design tools, online tools and REPLs
+
+- [Guppy](https://github.com/joshwcomeau/guppy) - A friendly application manager and task runner for React.js.
+- [Iso](https://compositor.io/iso/) - Build and prototype with pure JSX – no build setup or command line required.
+- [Alva](https://github.com/meetalva/alva) - Alva is a radically new digital design tool built for cross-functional product teams (React based Design Tool, in beta).
+- [HTMLtoJSX](https://magic.reactjs.net/htmltojsx.htm) - A web based tool that converts HTML to JSX compatible with React (v15).
+- [React Patterns](https://reactpatterns.com/) - A comprehensive collection of 17 React patterns and practices, by [@chantastic](https://twitter.com/chantastic).
+- [React Cheat Sheet](https://reactcheatsheet.com/) - An interactive documentation tool for the latest React API, by [@chantastic](https://twitter.com/chantastic).
+- [React for Designers](http://reactfordesigners.com/) - A friendly guide to start learning React. Created by [@zach\_\_johnston](https://twitter.com/zach__johnston). [Source].(https://github.com/zachj0hnston/reactfordesignersdotcom).
+
+### Code Editors
+
+Framer X will not have a code editor. Good news is that you can install and customize your code editor. Here are the most popular ones.
+
+- [Sublime Text 3](https://www.sublimetext.com/3) - ST3 is a super fast and feature packed code editor. Checkout [Package Control](https://packagecontrol.io/), the Sublime Text package manager. It includes a list of over 4,500 packages ready to install.
+- [Visual Studio Code](https://code.visualstudio.com/download) - VS Code is a fast, lightweight, code editor developed by Microsoft. Is open source, comes with built-in support for `JavaScript`, `TypeScript` and `Node`.
+  - [Extensions for Visual Studio Code](https://marketplace.visualstudio.com/search?term=React&target=VSCode&category=All%20categories&sortBy=Relevance).
+  - [Framer VS Code Theme](https://github.com/framer/syntax-vsc).
+  - [Awesome VS Code List](https://github.com/viatsko/awesome-vscode).
+- [Atom](https://atom.io/) - Atom is the code editor developed by Github. Ultra hackable, with tons of packages created by the community.
+  - [Framer Atom Theme](https://github.com/framer/syntax-atom).
+- [Codesandbox](https://codesandbox.io/dashboard) - CodeSandbox is an online editor that helps you create web applications, from prototype to deployment.
 
 ## Tutorials
 
 - [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html) - Build a game. Master the fundamentals to create a React app.
 - [What Is React?](https://learnreact.design/2017/06/08/what-is-react/) - React terms in plain English and doodles.
 - [Build with react - Tutorial](http://buildwithreact.com/tutorial) - Learn React quickly with this interactive tutorial.
-- [React Tutorial for Beginners
-  ](https://ihatetomatoes.net/react-tutorial-for-beginners/) - This React tutorial will explain everything in simple terms and plain English so you don’t feel overwhelmed or frustrated while learning React, by [@ihatetomatoes](https://twitter.com/ihatetomatoes).
+- [React Tutorial for Beginners](https://ihatetomatoes.net/react-tutorial-for-beginners/) - This React tutorial will explain everything in simple terms and plain English so you don’t feel overwhelmed or frustrated while learning React, by [@ihatetomatoes](https://twitter.com/ihatetomatoes).
 - [React Tutorial](https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/) - A Comprehensive Guide to learning React.js in 2018, by [@tylermcginnis](https://twitter.com/tylermcginnis).
 
 ## Articles
@@ -79,7 +106,3 @@ This is an awesome list of links to courses, tutorials & videos to learn everyth
 - [React.js meetup groups](https://www.meetup.com/topics/reactjs/): A great way to learn React.js is to get involved with their amazing community. There are more then 500 meetups around the world. Join!
 - [Spectrum.chat/react](https://spectrum.chat/react) - A community of developers, designers and others who love React.js.
 - [Framer React Slack Channel](https://framer.slack.com/app_redirect?channel=react) - If you have questions, resources or just want to share something, join us!
-
----
-
-#### Want to try Framer X? [Get on the waitlist!](https://framer.com/announcement?ref=Vy7rQ2)
