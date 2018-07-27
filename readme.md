@@ -8,7 +8,10 @@ This is an awesome list with links to courses, tutorials & videos to learn every
 
 If you want to learn more about React, [@zach\_\_johnston](https://twitter.com/zach__johnston) made [React for Designers](http://reactfordesigners.com/) to help you avoid the option paralysis.
 
-### Framer X: What we know so far
+### Framer X
+
+<details>
+<summary><b>What we know so far</b></summary>
 
 - [x] `coffeeScript` will not be part of Framer X.
 - [x] Framer X will be entirely based on `ES6` and `React`.
@@ -16,17 +19,23 @@ If you want to learn more about React, [@zach\_\_johnston](https://twitter.com/z
 - [x] Code based components will support `ES6` and/or `Typescript`.
 - [ ] CSS-in-JS for code components via `stijl` & [`glamor`](https://github.com/threepointone/glamor) _unconfirmed_.
 - [x] Framer X will not have a code editor. You can use any code editor of our choice.
+  </details>
 
-## Index
+## Table of Contents
+
+<details>
+<summary><b>Expand ToC</b></summary>
 
 - [Free React Courses](#free-react-courses)
 - [Paid React Courses](#paid-react-courses)
 - [ES6 Courses](#es6-courses)
-- [Tools](#tools-online-editors--repls)
+- [Tools](#react-based-design-tools-online-tools-and-repls)
 - [Code Editors](#code-editors)
 - [Tutorials](#tutorials)
 - [Articles](#articles)
 - [Meetups](#communities-meetups-and-more)
+
+</details>
 
 ## Courses
 
@@ -45,12 +54,11 @@ If you want to learn more about React, [@zach\_\_johnston](https://twitter.com/z
 
 - [React for Designers](https://designcode.io/react) - A 6-hour React course for designers, by designers. React for Designers is a free update, with a Design+Code account.
 - [Learn React](https://learnreact.design/) - Unleash Your Design Superpowers with this straightforward, with just enough JS, focused on UI design, layouts, styles and animations, by [@lintonye](https://twitter.com/lintonye).
-- [React For Beginners](https://reactforbeginners.com/) - [Source Code](https://github.com/wesbos/React-For-Beginners-Starter-Files) - Learn React.js in just a couple of afternoons, by [@wesbos](https://twitter.com/wesbos)
+- [React For Beginners](https://reactforbeginners.com/) - [Source Code](https://github.com/wesbos/React-For-Beginners-Starter-Files) - Learn React.js in just a couple of afternoons, by [@wesbos](https://twitter.com/wesbos).
 - [Essential React 2018](https://learnreact.com/lessons/2018-essential-react-1-overview) - A crash course for doers, moving fast from "Hello World" to advanced component composition, by [@chantastic](https://twitter.com/chantastic). Some sections of this course are free.
 - [Udemy: The Complete React Web Developer Course (with Redux)](https://www.udemy.com/react-2nd-edition/) - Learn how to build and launch React web applications using React v16.
 - [Udemy: Modern React with Redux](https://www.udemy.com/react-redux/) - Fundamentals of React, Redux, React Router, Webpack and ES6, by [@ste_grider](https://twitter.com/ste_grider)
 - [Treehouse: Learn React:](https://teamtreehouse.com/tracks/learn-react) - Get up and running with React, a JavaScript library for building user interfaces, by [@jimrhoskins](https://twitter.com/jimrhoskins).
--
 
 ### ES6 Courses
 
@@ -64,10 +72,11 @@ If you want to learn more about React, [@zach\_\_johnston](https://twitter.com/z
 - [Guppy](https://github.com/joshwcomeau/guppy) - A friendly application manager and task runner for React.js.
 - [Iso](https://compositor.io/iso/) - Build and prototype with pure JSX – no build setup or command line required.
 - [Alva](https://github.com/meetalva/alva) - Alva is a radically new digital design tool built for cross-functional product teams (React based Design Tool, in beta).
+- [React for Designers](http://reactfordesigners.com/) - A friendly guide to start learning React. Created by [@zach\_\_johnston](https://twitter.com/zach__johnston). [Source].(https://github.com/zachj0hnston/reactfordesignersdotcom).
 - [HTMLtoJSX](https://magic.reactjs.net/htmltojsx.htm) - A web based tool that converts HTML to JSX compatible with React (v15).
 - [React Patterns](https://reactpatterns.com/) - A comprehensive collection of 17 React patterns and practices, by [@chantastic](https://twitter.com/chantastic).
 - [React Cheat Sheet](https://reactcheatsheet.com/) - An interactive documentation tool for the latest React API, by [@chantastic](https://twitter.com/chantastic).
-- [React for Designers](http://reactfordesigners.com/) - A friendly guide to start learning React. Created by [@zach\_\_johnston](https://twitter.com/zach__johnston). [Source].(https://github.com/zachj0hnston/reactfordesignersdotcom).
+- [React.js Cheatsheet](https://devhints.io/react) - A complete reference of components, properties and states, life cycle methods and more.
 
 ### Code Editors
 
@@ -98,6 +107,7 @@ Framer X will not have a code editor. Good news is that you can install and cust
 - [How to Learn React: A Five-Step Plan](https://www.lullabot.com/articles/how-to-learn-react) - These five steps, which should take a dedicated student about a week, will provide the foundation you need to get started, by [@\_\_jhannah](https://twitter.com/__jhannah).
 - [Learn React.js in 5 minutes](https://medium.freecodecamp.org/learn-react-js-in-5-minutes-526472d292f4) - A quick introduction to the popular JavaScript library, by Per Harald Borgen.
 - [Learning React.js is easier than you think](https://edgecoders.com/learning-react-js-is-easier-than-you-think-fbd6dc4d935a) - Learn the fundamentals of React.js in one Medium article.
+- [9 things every React.js beginner should know](https://camjackson.net/post/9-things-every-reactjs-beginner-should-know) - A list of tips to help you get a better foundation with React by [@thecamjackson](https://twitter.com/thecamjackson).
 
 ## Other lists, communities, meetups and more.
 
