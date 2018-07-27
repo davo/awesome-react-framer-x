@@ -12,22 +12,24 @@ If you want to learn more about React, [@zach\_\_johnston](https://twitter.com/z
 
 <details>
 <summary><b>What we know so far</b></summary>
+
 - [x] `coffeeScript` will not be part of Framer X.
 - [x] Framer X will be entirely based on `ES6` and `React`.
 - [x] `Framer.js` will be ported into a set of `React` helpers for animation, gestures and interpolation. It will be open source.
 - [x] Code based components will support `ES6` and/or `Typescript`.
 - [ ] CSS-in-JS for code components via `stijl` & [`glamor`](https://github.com/threepointone/glamor) _unconfirmed_.
 - [x] Framer X will not have a code editor. You can use any code editor of our choice.
-</details>
+  </details>
 
 ## Table of Contents
 
 <details>
 <summary><b>Expand ToC</b></summary>
+
 - [Free React Courses](#free-react-courses)
 - [Paid React Courses](#paid-react-courses)
 - [ES6 Courses](#es6-courses)
-- [Tools](#tools-online-editors--repls)
+- [Tools](#react-based-design-tools-online-tools-and-repls)
 - [Code Editors](#code-editors)
 - [Tutorials](#tutorials)
 - [Articles](#articles)
@@ -52,12 +54,11 @@ If you want to learn more about React, [@zach\_\_johnston](https://twitter.com/z
 
 - [React for Designers](https://designcode.io/react) - A 6-hour React course for designers, by designers. React for Designers is a free update, with a Design+Code account.
 - [Learn React](https://learnreact.design/) - Unleash Your Design Superpowers with this straightforward, with just enough JS, focused on UI design, layouts, styles and animations, by [@lintonye](https://twitter.com/lintonye).
-- [React For Beginners](https://reactforbeginners.com/) - [Source Code](https://github.com/wesbos/React-For-Beginners-Starter-Files) - Learn React.js in just a couple of afternoons, by [@wesbos](https://twitter.com/wesbos)
+- [React For Beginners](https://reactforbeginners.com/) - [Source Code](https://github.com/wesbos/React-For-Beginners-Starter-Files) - Learn React.js in just a couple of afternoons, by [@wesbos](https://twitter.com/wesbos).
 - [Essential React 2018](https://learnreact.com/lessons/2018-essential-react-1-overview) - A crash course for doers, moving fast from "Hello World" to advanced component composition, by [@chantastic](https://twitter.com/chantastic). Some sections of this course are free.
 - [Udemy: The Complete React Web Developer Course (with Redux)](https://www.udemy.com/react-2nd-edition/) - Learn how to build and launch React web applications using React v16.
 - [Udemy: Modern React with Redux](https://www.udemy.com/react-redux/) - Fundamentals of React, Redux, React Router, Webpack and ES6, by [@ste_grider](https://twitter.com/ste_grider)
 - [Treehouse: Learn React:](https://teamtreehouse.com/tracks/learn-react) - Get up and running with React, a JavaScript library for building user interfaces, by [@jimrhoskins](https://twitter.com/jimrhoskins).
--
 
 ### ES6 Courses
 
