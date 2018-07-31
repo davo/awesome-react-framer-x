@@ -6,7 +6,10 @@ This is an awesome list with links to courses, tutorials & videos to learn every
 
 **[Framer X](https://framer.com/x) Beta** will roll out starting August 1st. FX will be powered by `React`. Allowing to use actual `ES6` & `Typescript` code on our projects. This also promotes reusability, by adding existing React components & libraries to your workflow or creating and publishing new components on the Design Store.
 
-If you want to learn more about React, [@zach\_\_johnston](https://twitter.com/zach__johnston) made [React for Designers](http://reactfordesigners.com/) to help you avoid the option paralysis.
+If you want to get started with React:
+
+- [React Docs](https://reactjs.org/docs/getting-started.html) - Make sure to checkout the new React Docs. It's an overview of the most useful resources including the [Intro to React](https://reactjs.org/tutorial/tutorial.html) tutorial.
+- [React for Designers](http://reactfordesigners.com/), made by [@zach\_\_johnston](https://twitter.com/zach__johnston), a quick guide to help you avoid the option paralysis.
 
 ### Framer X
 
