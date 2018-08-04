@@ -2,26 +2,30 @@
 
 This is an awesome list with links to courses, tutorials & videos to learn everything about [React](https://reactjs.org/) and [ES6](https://tc39.github.io/ecma262/).
 
-## Why React & ES6?
+## What's Framer X
 
-**[Framer X](https://framer.com/x) Beta** will roll out starting August 1st. FX will be powered by `React`. Allowing to use actual `ES6` & `Typescript` code on our projects. This also promotes reusability, by adding existing React components & libraries to your workflow or creating and publishing new components on the Design Store.
+[Framer X](https://framer.com/x) is a powerful Interaction Design tool. A Beta Program started on August 1st to try and give feedback to the team. Please read the **[Official Documentation](https://framer.gitbook.io/framer/)**.
+
+Beta I comes with a new Design Store of reusable UI components (powered by NPM). On the store you will find a collection of interactive design & code components such as maps, random image generators, video and audio players, Design System Kits (iOS & Android) and more.
+
+React components for Framer X Beta 1 **will only support `TypeScript`**. `ES6` support is expected for the final release.
 
 If you want to get started with React:
 
-- [React Docs](https://reactjs.org/docs/getting-started.html) - Make sure to checkout the new React Docs. It's an overview of the most useful resources including the [Intro to React](https://reactjs.org/tutorial/tutorial.html) tutorial.
+- [React Docs](https://reactjs.org/docs/getting-started.html) - Make sure to check out the new React Docs. It's an overview of the most useful resources including the [Intro to React](https://reactjs.org/tutorial/tutorial.html) tutorial.
 - [React for Designers](http://reactfordesigners.com/), made by [@zach\_\_johnston](https://twitter.com/zach__johnston), a quick guide to help you avoid the option paralysis.
 
-### Framer X
+### From Framer Studio to Framer X
 
 <details>
 <summary><b>What we know so far</b></summary>
 
-- [x] `coffeeScript` will not be part of Framer X.
-- [x] Framer X will be entirely based on `ES6` and `React`.
+- [x] `CoffeeScript` will not be supported on Framer X.
+- [x] Code based components will support `Typescript` on Beta 1. Plain `ES6` will be supported on the final release.
 - [x] `Framer.js` will be ported into a set of `React` helpers for animation, gestures and interpolation. It will be open source.
-- [x] Code based components will support `ES6` and/or `Typescript`.
-- [ ] CSS-in-JS for code components via `stijl` & [`glamor`](https://github.com/threepointone/glamor) _unconfirmed_.
-- [x] Framer X will not have a code editor. You can use any code editor of our choice.
+- [x] React offers a variety of methods to add CSS to a code component, some of this methods are supported on Beta I.
+- [x] Framer X will not include a code editor like Framer Studio. Learn more about [how to setup and customize](https://github.com/framer/FramerXDocs/tree/688689a9ac4f47d06eb9e17a32bb7aab6666eca4/application#setup-and-workflow) a code editor.
+- To publish packages on the new Design Store is recommended to edit a `readme.md` file. Github has a comprehensive [Intro to `Markdown`](https://guides.github.com/features/mastering-markdown/).
   </details>
 
 ## Table of Contents
@@ -29,6 +33,7 @@ If you want to get started with React:
 <details>
 <summary><b>Expand ToC</b></summary>
 
+- [Framer X Official Docs](#framerxdocs)
 - [Free React Courses](#free-react-courses)
 - [Paid React Courses](#paid-react-courses)
 - [ES6 Courses](#es6-courses)
@@ -39,6 +44,8 @@ If you want to get started with React:
 - [Meetups](#communities-meetups-and-more)
 
 </details>
+
+## Framer X Docs
 
 ## Courses
 
@@ -52,6 +59,7 @@ If you want to get started with React:
 - [React JS Tutorials](https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b) - Get quickly up to pace with React.js development by LearnCode.academy.
 - [React Armory Learn React by Itself](https://reactarmory.com/guides/learn-react-by-itself) - Learn React without the buzzwords, by [@james_k_nelson](https://twitter.com/james_k_nelson).
 - [Free React bootcamp](https://tylermcginnis.com/free-react-bootcamp/) - All of the recordings, links, and assignments from the "Free React.js Bootcamp", streamed live and recorded on during April 2018 by [@tylermcginnis](https://twitter.com/tylermcginnis).
+- [React Rapid Course](https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b) - This React Course will help you get quickly up to pace with React.js development - [Source Code](https://github.com/learncodeacademy/react-js-tutorials).
 
 ### Paid React Courses
 
@@ -85,7 +93,7 @@ If you want to get started with React:
 
 Framer X will not have a code editor. Good news is that you can install and customize your code editor. Here are the most popular ones.
 
-- [Sublime Text 3](https://www.sublimetext.com/3) - ST3 is a super fast and feature packed code editor. Checkout [Package Control](https://packagecontrol.io/), the Sublime Text package manager. It includes a list of over 4,500 packages ready to install.
+- [Sublime Text 3](https://www.sublimetext.com/3) - ST3 is a super fast and feature-packed code editor. Checkout [Package Control](https://packagecontrol.io/), the Sublime Text package manager. It includes a list of over 4,500 packages ready to install.
 - [Visual Studio Code](https://code.visualstudio.com/download) - VS Code is a fast, lightweight, code editor developed by Microsoft. Is open source, comes with built-in support for `JavaScript`, `TypeScript` and `Node`.
   - [Extensions for Visual Studio Code](https://marketplace.visualstudio.com/search?term=React&target=VSCode&category=All%20categories&sortBy=Relevance).
   - [Framer VS Code Theme](https://github.com/framer/syntax-vsc).
@@ -98,7 +106,7 @@ Framer X will not have a code editor. Good news is that you can install and cust
 
 - [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html) - Build a game. Master the fundamentals to create a React app.
 - [What Is React?](https://learnreact.design/2017/06/08/what-is-react/) - React terms in plain English and doodles.
-- [Build with react - Tutorial](http://buildwithreact.com/tutorial) - Learn React quickly with this interactive tutorial.
+- [Build with React - Tutorial](http://buildwithreact.com/tutorial) - Learn React quickly with this interactive tutorial.
 - [React Tutorial for Beginners](https://ihatetomatoes.net/react-tutorial-for-beginners/) - This React tutorial will explain everything in simple terms and plain English so you don’t feel overwhelmed or frustrated while learning React, by [@ihatetomatoes](https://twitter.com/ihatetomatoes).
 - [React Tutorial](https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/) - A Comprehensive Guide to learning React.js in 2018, by [@tylermcginnis](https://twitter.com/tylermcginnis).
 
@@ -116,6 +124,6 @@ Framer X will not have a code editor. Good news is that you can install and cust
 
 - [Awesome React](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
 - [Discussion forum at discuss.reactjs.org](https://discuss.reactjs.org/) - This forum is a great place for discussion about best practices and application architecture as well as the future of React.
-- [React.js meetup groups](https://www.meetup.com/topics/reactjs/): A great way to learn React.js is to get involved with their amazing community. There are more then 500 meetups around the world. Join!
+- [React.js meetup groups](https://www.meetup.com/topics/reactjs/): A great way to learn React.js is to get involved with their amazing community. There are more than 500 meetups around the world. Join!
 - [Spectrum.chat/react](https://spectrum.chat/react) - A community of developers, designers and others who love React.js.
 - [Framer React Slack Channel](https://framer.slack.com/app_redirect?channel=react) - If you have questions, resources or just want to share something, join us!
