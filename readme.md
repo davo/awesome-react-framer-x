@@ -2,7 +2,7 @@
 
 This is an awesome list with links to courses, tutorials & videos to learn everything about [React](https://reactjs.org/) and [ES6](https://tc39.github.io/ecma262/).
 
-## What's Framer X
+## What is Framer X?
 
 [Framer X](https://framer.com/x) is a powerful Interaction Design tool. A Beta Program started on August 1st to try and give feedback to the team. Please read the **[Official Documentation](https://framer.gitbook.io/framer/)**.
 
