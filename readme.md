@@ -6,6 +6,8 @@ This is an awesome list with links to courses, tutorials & videos to learn every
 
 [Framer X](https://framer.com/x) is a powerful Interaction Design tool. A Beta Program started on August 1st to try and give feedback to the team. Please read the **[Official Documentation](https://framer.gitbook.io/framer/)**.
 
+The team recently opened up a Facebook group **[Framer X Beta](https://www.facebook.com/groups/framer.x.feedback/)** to consolidate bug reports, feedback, ideas and questions.
+
 Beta I comes with a new Design Store of reusable UI components (powered by NPM). On the store you will find a collection of interactive design & code components such as maps, random image generators, video and audio players, Design System Kits (iOS & Android) and more.
 
 React components for Framer X Beta 1 **will only support `TypeScript`**. `ES6` support is expected for the final release.
@@ -25,7 +27,7 @@ If you want to get started with React:
 - [x] `Framer.js` will be ported into a set of `React` helpers for animation, gestures and interpolation. It will be open source.
 - [x] React offers a variety of methods to add CSS to a code component, some of this methods are supported on Beta I.
 - [x] Framer X will not include a code editor like Framer Studio. Learn more about [how to setup and customize](https://github.com/framer/FramerXDocs/tree/688689a9ac4f47d06eb9e17a32bb7aab6666eca4/application#setup-and-workflow) a code editor.
-- To publish packages on the new Design Store is recommended to edit a `readme.md` file. Github has a comprehensive [Intro to `Markdown`](https://guides.github.com/features/mastering-markdown/).
+- [x] To publish packages on the new Design Store is recommended to edit a `readme.md` file. Github has a comprehensive [Intro to `Markdown`](https://guides.github.com/features/mastering-markdown/).
   </details>
 
 ## Table of Contents
@@ -77,7 +79,6 @@ If you want to get started with React:
 - [Learn ES6](https://egghead.io/courses/learn-es6-ecmascript-2015) - This course takes a look at some of the new features of ES6, by [@johnlindquist](https://twitter.com/johnlindquist).
 - [ES6 for Everyone](https://es6.io/) - Improve your core JavaScript skills and master all that ES6 has to offer, by [@wesbos](https://twitter.com/wesbos).
 - [Introduction to ES6+](https://scrimba.com/g/gintrotoes6) - Learn modern JavaScript through 23 screencasts, by Per Harald Borgen - [Article](https://medium.freecodecamp.org/want-to-learn-es6-take-this-free-23-part-course-and-become-a-javascript-ninja-55002db1ff74).
--
 
 ### React based design tools, online tools and REPLs
 
@@ -128,4 +129,6 @@ Framer X will not have a code editor. Good news is that you can install and cust
 - [Discussion forum at discuss.reactjs.org](https://discuss.reactjs.org/) - This forum is a great place for discussion about best practices and application architecture as well as the future of React.
 - [React.js meetup groups](https://www.meetup.com/topics/reactjs/): A great way to learn React.js is to get involved with their amazing community. There are more than 500 meetups around the world. Join!
 - [Spectrum.chat/react](https://spectrum.chat/react) - A community of developers, designers and others who love React.js.
+- [Framer X Slack Channel](https://framer.slack.com/app_redirect?channel=framer-x) - Share your work, questions or resources here!
 - [Framer React Slack Channel](https://framer.slack.com/app_redirect?channel=react) - If you have questions, resources or just want to share something, join us!
+
