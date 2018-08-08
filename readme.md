@@ -70,6 +70,7 @@ If you want to get started with React:
 - [Udemy: The Complete React Web Developer Course (with Redux)](https://www.udemy.com/react-2nd-edition/) - Learn how to build and launch React web applications using React v16.
 - [Udemy: Modern React with Redux](https://www.udemy.com/react-redux/) - Fundamentals of React, Redux, React Router, Webpack and ES6, by [@ste_grider](https://twitter.com/ste_grider)
 - [Treehouse: Learn React:](https://teamtreehouse.com/tracks/learn-react) - Get up and running with React, a JavaScript library for building user interfaces, by [@jimrhoskins](https://twitter.com/jimrhoskins).
+- [Frontend Masters: Complete Intro to React, v3 (feat. Redux, Router & Flow)](https://frontendmasters.com/courses/react/) - Learn how to build real world applications with React with Brian Holt. 
 
 ### ES6 Courses
 
