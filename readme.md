@@ -120,6 +120,7 @@ Framer X will not have a code editor. Good news is that you can install and cust
 - [Learn React.js in 5 minutes](https://medium.freecodecamp.org/learn-react-js-in-5-minutes-526472d292f4) - A quick introduction to the popular JavaScript library, by Per Harald Borgen.
 - [Learning React.js is easier than you think](https://edgecoders.com/learning-react-js-is-easier-than-you-think-fbd6dc4d935a) - Learn the fundamentals of React.js in one Medium article.
 - [9 things every React.js beginner should know](https://camjackson.net/post/9-things-every-reactjs-beginner-should-know) - A list of tips to help you get a better foundation with React by [@thecamjackson](https://twitter.com/thecamjackson).
+- [Every UI Designer needs to learn React](https://blog.continuum.cl/every-ui-designer-needs-to-learn-react-heres-why-f2b8c2ff2c86)
 
 ## Other lists, communities, meetups and more.
 
