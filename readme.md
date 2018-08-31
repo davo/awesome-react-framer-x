@@ -23,7 +23,7 @@ If you want to get started with React:
 <summary><b>What we know so far</b></summary>
 
 -   [x] `CoffeeScript` will not be supported on Framer X.
--   [x] Code based components will support `Typescript` on Beta 1. Plain `ES6` will be supported on the final release.
+-   [x] Code based components will support `Typescript` on Beta 1. `ES6` will be supported on the final release.
 -   [x] `Framer.js` will be ported into a set of `React` helpers for animation, gestures and interpolation. It will be open source.
 -   [x] React offers a variety of methods to add CSS to a code component, some of this methods are supported on Beta I.
 -   [x] Framer X will not include a code editor like Framer Studio. Learn more about [how to setup and customize](https://github.com/framer/FramerXDocs/tree/688689a9ac4f47d06eb9e17a32bb7aab6666eca4/application#setup-and-workflow) a code editor.
@@ -42,6 +42,10 @@ If you want to get started with React:
 -   [Code Editors](#code-editors)
 -   [Tutorials](#tutorials)
 -   [Articles](#articles)
+
+    -   [Framer X Articles](#framer-x-articles)
+    -   [React Articles](#react-articles)
+
 -   [Meetups](#communities-meetups-and-more)
 
 </details>
@@ -57,7 +61,7 @@ If you want to get started with React:
 -   [ReactJS Crash Course](https://youtu.be/A71aqufiNtQ) - Learn the fundamentals of React.js, by [@traversymedia](https://twitter.com/traversymedia) - [Source Code](https://github.com/bradtraversy/projectmanager).
 -   [React JS Tutorials](https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b) - Get quickly up to pace with React.js development by LearnCode.academy.
 -   [React Armory Learn React by Itself](https://reactarmory.com/guides/learn-react-by-itself) - Learn React without the buzzwords, by [@james_k_nelson](https://twitter.com/james_k_nelson).
--   [Free React bootcamp](https://tylermcginnis.com/free-react-bootcamp/) - All of the recordings, links, and assignments from the "Free React.js Bootcamp", streamed live and recorded on during April 2018 by [@tylermcginnis](https://twitter.com/tylermcginnis).
+-   [Free React boot camp](https://tylermcginnis.com/free-react-bootcamp/) - All of the recordings, links, and assignments from the "Free React.js Bootcamp", streamed live and recorded on during April 2018 by [@tylermcginnis](https://twitter.com/tylermcginnis).
 -   [React Rapid Course](https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b) - This React Course will help you get quickly up to pace with React.js development - [Source Code](https://github.com/learncodeacademy/react-js-tutorials).
 
 ### Paid React Courses
@@ -69,7 +73,7 @@ If you want to get started with React:
 -   [Udemy: The Complete React Web Developer Course (with Redux)](https://www.udemy.com/react-2nd-edition/) - Learn how to build and launch React web applications using React v16.
 -   [Udemy: Modern React with Redux](https://www.udemy.com/react-redux/) - Fundamentals of React, Redux, React Router, Webpack and ES6, by [@ste_grider](https://twitter.com/ste_grider)
 -   [Treehouse: Learn React:](https://teamtreehouse.com/tracks/learn-react) - Get up and running with React, a JavaScript library for building user interfaces, by [@jimrhoskins](https://twitter.com/jimrhoskins).
--   [Frontend Masters: Complete Intro to React, v3 (feat. Redux, Router & Flow)](https://frontendmasters.com/courses/react/) - Learn how to build real world applications with React with Brian Holt.
+-   [Frontend Masters: Complete Intro to React, v3 (feat. Redux, Router & Flow)](https://frontendmasters.com/courses/react/) - Learn how to build real-world applications with React with Brian Holt.
 
 ### ES6 Courses
 
@@ -83,8 +87,8 @@ If you want to get started with React:
 -   [Iso](https://compositor.io/iso/) - Build and prototype with pure JSX – no build setup or command line required.
 -   [Alva](https://github.com/meetalva/alva) - Alva is a React based Design Tool (in beta).
 -   [React for Designers](http://reactfordesigners.com/) - A friendly guide to start learning React. Created by [@zach\_\_johnston](https://twitter.com/zach__johnston). [Source](https://github.com/zachj0hnston/reactfordesignersdotcom).
--   [HTMLtoJSX](https://magic.reactjs.net/htmltojsx.htm) - A web based tool that converts HTML to JSX compatible with React (v15).
--   [SVG2JSX](https://svg2jsx.herokuapp.com/) - A web based tool that converts SVG to valid JSX.
+-   [HTMLtoJSX](https://magic.reactjs.net/htmltojsx.htm) - A web-based tool that converts HTML to JSX compatible with React (v15).
+-   [SVG2JSX](https://svg2jsx.herokuapp.com/) - A web-based tool that converts SVG to valid JSX.
 -   [React Patterns](https://reactpatterns.com/) - A comprehensive collection of 17 React patterns and practices, by [@chantastic](https://twitter.com/chantastic).
 -   [React Cheat Sheet](https://reactcheatsheet.com/) - An interactive documentation tool for the latest React API, by [@chantastic](https://twitter.com/chantastic).
 -   [React.js Cheatsheet](https://devhints.io/react) - A complete reference of components, properties and states, life cycle methods and more.
@@ -111,6 +115,13 @@ Framer X will not have a code editor. Good news is that you can install and cust
 -   [React Tutorial](https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/) - A Comprehensive Guide to learning React.js in 2018, by [@tylermcginnis](https://twitter.com/tylermcginnis).
 
 ## Articles
+
+### Framer X Articles
+
+-   [Bringing Design System Components from Production into Framer X](https://medium.com/@shiftsave/bringing-design-system-components-from-production-into-framer-x-786e89be2250) - A super comprehensive guide for reusing Design Systems components inside Framer X by [Ivan Cruz](https://twitter.com/shiftsave/), Product Designer at Datadog. Check out the [source code](https://github.com/shiftsave/framerx-build-system), a build system to transpile and sync a production code component with Framer X.
+-   [‪Framer X Beta: My first week‬](https://blog.prototypr.io/framer-x-beta-my-first-week-3afea1ec48ab) - Web & motion designer [Athanasia Lykoudi](https://twitter.com/sla1) shares her first impressions using Framer X.
+-   [The Future of UI — FramerX](https://blog.prototypr.io/framer-x-preview-9d067f35cf9a) - Product Designer, [Antoine Plu](https://twitter.com/AntoinePlu) does a detailed review of the capabilities of this new tool. The article includes a screencast video, a speeded-up 3-hour stress test of Framer X.
+-   [Framer X: the hype, the powers, the challenges and the grand vision](https://uxplanet.org/framer-x-the-hype-the-powers-the-challenges-and-the-grand-vision-b718e14b3c45) - [Linton Ye](https://twitter.com/lintonye), Creator of [learnreact.design](https://learnreact.design/) speculates about the future of Framer X and how this release defines Framer as the most ambitious Design Tool of 2018.
 
 ### React Articles
 
