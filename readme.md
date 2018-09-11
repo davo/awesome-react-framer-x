@@ -116,6 +116,7 @@ Framer X will not have a code editor. Good news is that you can install and cust
 
 ### Framer X Articles
 
+-   [Setting Props in Framer X](https://medium.com/@steveruiz/setting-props-in-framer-x-209dba59f606) - This is a super handy, four-part article about Props in React, in Framer X, how to set Property Controls on your own code component and which Property Control Types are available on Framer X Beta 3 by Product Designer, [Steve Ruiz](https://twitter.com/steveruizok).
 -   [How to create a simple prototype with Code Overrides in Framer X](https://medium.com/@benjaminnathan/how-to-create-a-simple-prototype-with-code-overrides-in-framer-x-4ab14a4b329d) - A thorough guide to code overrides, one of the new features of Framer X Beta 2 by Framer Designer, [Benjamin den Boer](https://twitter.com/benjaminnathan).
 -   [Bringing Design System Components from Production into Framer X](https://medium.com/@shiftsave/bringing-design-system-components-from-production-into-framer-x-786e89be2250) - A super comprehensive guide for reusing Design Systems components inside Framer X by [Ivan Cruz](https://twitter.com/shiftsave/), Product Designer at Datadog. Check out the [source code](https://github.com/shiftsave/framerx-build-system), a build system to transpile and sync a production code component with Framer X.
 -   [‪Framer X Beta: My first week‬](https://blog.prototypr.io/framer-x-beta-my-first-week-3afea1ec48ab) - Web & motion designer [Athanasia Lykoudi](https://twitter.com/sla1) shares her first impressions using Framer X.
