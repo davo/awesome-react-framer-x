@@ -17,24 +17,9 @@ If you want to get started with React:
 -   [React Docs](https://reactjs.org/docs/getting-started.html) - Make sure to check out the new React Docs. It's an overview of the most useful resources including the [Intro to React](https://reactjs.org/tutorial/tutorial.html) tutorial.
 -   [React for Designers](http://reactfordesigners.com/), made by [@zach\_\_johnston](https://twitter.com/zach__johnston), a quick guide to help you avoid the option paralysis.
 
-### From Framer Studio to Framer X
-
-<details>
-<summary><b>What we know so far</b></summary>
-
--   [x] `CoffeeScript` will not be supported on Framer X.
--   [x] Code based components will support `Typescript` on Beta 1. `ES6` will be supported on the final release.
--   [x] `Framer.js` will be ported into a set of `React` helpers for animation, gestures and interpolation. It will be open source.
--   [x] React offers a variety of methods to add CSS to a code component, some of this methods are supported on Beta I.
--   [x] Framer X will not include a code editor like Framer Studio. Learn more about [how to setup and customize](https://github.com/framer/FramerXDocs/tree/688689a9ac4f47d06eb9e17a32bb7aab6666eca4/application#setup-and-workflow) a code editor.
--   [x] To publish packages on the new Design Store is recommended to edit a `readme.md` file. Github has a comprehensive [Intro to `Markdown`](https://guides.github.com/features/mastering-markdown/).
-    </details>
-
 ## Table of Contents
 
-<details>
-<summary><b>Expand ToC</b></summary>
-
+-   [Framer X Courses](#framer-x-courses) 🆕
 -   [Free React Courses](#free-react-courses)
 -   [Paid React Courses](#paid-react-courses)
 -   [ES6 Courses](#es6-courses)
@@ -44,12 +29,19 @@ If you want to get started with React:
 -   [Articles](#articles)
     -   [Framer X Articles](#framer-x-articles) 🆕
     -   [React Articles](#react-articles)
--   [Framer X Code Components](#framer-x-code-components) 🆕
+-   [Framer X Components & Tools](#framer-x-components-tools) 🆕
+
+    -   [Code Components](#code-components) 🆕
+    -   [Tools](#tools) 🆕
+
 -   [Meetups](#communities-meetups-and-more)
 
-</details>
-
 ## Courses
+
+### Framer X Courses
+
+-   [Design + Code Free Framer X Course](https://designcode.io/framer-x-course) - Meng To & Team created an awesome 10 part crash course to learn all about the design & code parts of Framer X, including layouts, design components, stacks, code components, code overrides, using data on a code component and more.
+-   [Framer X + React](https://learnreact.design/framerx-react) - Linton Ye, from [learnreact.design](https://learnreact.design/) created a 5 part course to learn all about Framer X and React. The course covers the Framer X design capabilities such as frames, stacks, images, graphics, design components. The last 2 parts of the course includes code overrides for animations and creating your first React components for Framer X.
 
 ### Free React Courses
 
@@ -105,7 +97,6 @@ Framer X will not have a code editor. Good news is that you can install and cust
     -   [Framer Atom Theme](https://github.com/framer/syntax-atom).
 -   [Codesandbox](https://codesandbox.io/dashboard) - CodeSandbox is an online editor that helps you create web applications, from prototype to deployment.
 
-
 ## Tutorials
 
 -   [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html) - Build a game. Master the fundamentals to create a React app.
@@ -118,6 +109,7 @@ Framer X will not have a code editor. Good news is that you can install and cust
 
 ### Framer X Articles
 
+-   [Framer X Beta overview and examples](https://medium.com/@PavelLaptev/framer-x-beta-overview-and-examples-58dba80a6865) - A comprehensive guide of everything you need to know about Framer X from setting up the code editor, debuging with the inspector, some basics about React, how a code component structure looks like, setting up external NPM modules, using Styled Components on a code component and more. Article by [Pavel Laptev](https://twitter.com/DarioGraphics).
 -   [Setting Props in Framer X](https://medium.com/@steveruiz/setting-props-in-framer-x-209dba59f606) - This is a super handy, four-part article about Props in React, in Framer X, how to set Property Controls on your own code component and which Property Control Types are available on Framer X Beta 3 by Product Designer, [Steve Ruiz](https://twitter.com/steveruizok).
 -   [How to create a simple prototype with Code Overrides in Framer X](https://medium.com/@benjaminnathan/how-to-create-a-simple-prototype-with-code-overrides-in-framer-x-4ab14a4b329d) - A thorough guide to code overrides, one of the new features of Framer X Beta 2 by Framer Designer, [Benjamin den Boer](https://twitter.com/benjaminnathan).
 -   [Bringing Design System Components from Production into Framer X](https://medium.com/@shiftsave/bringing-design-system-components-from-production-into-framer-x-786e89be2250) - A super comprehensive guide for reusing Design Systems components inside Framer X by [Ivan Cruz](https://twitter.com/shiftsave/), Product Designer at Datadog. Check out the [source code](https://github.com/shiftsave/framerx-build-system), a build system to transpile and sync a production code component with Framer X.
@@ -134,15 +126,16 @@ Framer X will not have a code editor. Good news is that you can install and cust
 -   [9 things every React.js beginner should know](https://camjackson.net/post/9-things-every-reactjs-beginner-should-know) - A list of tips to help you get a better foundation with React by [@thecamjackson](https://twitter.com/thecamjackson).
 -   [Every UI Designer needs to learn React](https://blog.continuum.cl/every-ui-designer-needs-to-learn-react-heres-why-f2b8c2ff2c86)
 
-## Framer X Code Components
+## Framer X Components & Tools
+
+### Code Components
+
+-   [Form](https://github.com/emilwidlund/Form) - A Framer X component that enables 3D-rendering by UI Designer [Emil Widlund](https://twitter.com/emilwidlund).
 
 ### Tools
 
--  [shiftsave/framerx-build-system](https://github.com/shiftsave/framerx-build-system) - A build system to transpile React components for use in Framer X - Check out the ([intro blog post](https://blog.prototypr.io/bringing-design-system-components-from-production-into-framer-x-786e89be2250)).
-
-### Components
-
-- [Form](https://github.com/emilwidlund/Form) - A Framer X component that enables 3D-rendering by UI Designer [Emil Widlund](https://twitter.com/emilwidlund).
+-   [Framer Tools](https://github.com/steveruizok/framer-tools) - Create code components for your Framer X file right from the command line, created by [Steve Ruiz](https://twitter.com/steveruizok/).
+-   [Framer X Build System](https://github.com/shiftsave/framerx-build-system) - A build system to transpile React components for use in Framer X - Check out the ([intro blog post](https://blog.prototypr.io/bringing-design-system-components-from-production-into-framer-x-786e89be2250)).
 
 ## Other lists, communities, meetups and more.
 
