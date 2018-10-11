@@ -4,13 +4,11 @@ This is an awesome list with links to courses, tutorials & videos to learn every
 
 ## What is Framer X?
 
-[Framer X](https://framer.com/x) is a powerful Interaction Design tool. A Beta Program started on August 1st to try and give feedback to the team. Please read the **[Official Documentation](https://framer.gitbook.io/framer/)**.
+[Framer X](https://framer.com/x) is a powerful Interaction Design tool. Please read the **[Official Documentation](https://framer.com/docs/)**.
 
-The team recently opened up a Facebook group **[Framer X Beta](https://www.facebook.com/groups/framer.x.feedback/)** to consolidate bug reports, feedback, ideas and questions.
+Framer X comes with a variety of features and capabilities like a Design Store of reusable UI components (powered by NPM). On the store you will find a collection of interactive design & code components such as maps, random image generators, video and audio players, Design System Kits (iOS & Android) and more.
 
-Beta I comes with a new Design Store of reusable UI components (powered by NPM). On the store you will find a collection of interactive design & code components such as maps, random image generators, video and audio players, Design System Kits (iOS & Android) and more.
-
-React components for Framer X Beta 1 **will only support `TypeScript`**. `ES6` support is expected for the final release.
+React components for Framer X could be written in **`TypeScript`** or **`ES6`**.
 
 If you want to get started with React:
 
