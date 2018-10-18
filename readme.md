@@ -27,12 +27,9 @@ If you want to get started with React:
 -   [Articles](#articles)
     -   [Framer X Articles](#framer-x-articles) 🆕
     -   [React Articles](#react-articles)
--   [Framer X Components & Tools](#framer-x-components-tools) 🆕
-
-    -   [Code Components](#code-components) 🆕
+-   [Framer X Components & Tools](#framer-x-components--tools) 🆕
     -   [Tools](#tools) 🆕
-
--   [Meetups](#communities-meetups-and-more)
+-   [Community](#other-lists-communities-meetups-and-more)
 
 ## Courses
 
@@ -126,10 +123,6 @@ Framer X will not have a code editor. Good news is that you can install and cust
 
 ## Framer X Components & Tools
 
-### Code Components
-
--   [Form](https://github.com/emilwidlund/Form) - A Framer X component that enables 3D-rendering by UI Designer [Emil Widlund](https://twitter.com/emilwidlund).
-
 ### Tools
 
 -   [Framer Tools](https://github.com/steveruizok/framer-tools) - Create code components for your Framer X file right from the command line, created by [Steve Ruiz](https://twitter.com/steveruizok/).
@@ -140,6 +133,7 @@ Framer X will not have a code editor. Good news is that you can install and cust
 -   [Awesome React](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
 -   [Discussion forum at discuss.reactjs.org](https://discuss.reactjs.org/) - This forum is a great place for discussion about best practices and application architecture as well as the future of React.
 -   [React.js meetup groups](https://www.meetup.com/topics/reactjs/): A great way to learn React.js is to get involved with their amazing community. There are more than 500 meetups around the world. Join!
--   [Spectrum.chat/react](https://spectrum.chat/react) - A community of developers, designers and others who love React.js.
--   [Framer X Slack Channel](https://framer.slack.com/app_redirect?channel=framer-x) - Share your work, questions or resources here!
+-   [spectrum.chat/react](https://spectrum.chat/react) - A community of developers, designers and others who love React.js.
+-   [spectrum.chat/framer](https://spectrum.chat/framer) - Another channel to share your prototypes and ask questions about Framer. 
+-   [Framer X Slack Channel](https://framer.slack.com/app_redirect?channel=framer-x) - Share your work, ask questions and help other Framer X enthusiasts!
 -   [Framer React Slack Channel](https://framer.slack.com/app_redirect?channel=react) - If you have questions, resources or just want to share something, join us!
