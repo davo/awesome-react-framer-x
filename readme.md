@@ -111,6 +111,9 @@ Framer X will not have a code editor. Good news is that you can install and cust
 -   [‪Framer X Beta: My first week‬](https://blog.prototypr.io/framer-x-beta-my-first-week-3afea1ec48ab) - Web & motion designer [Athanasia Lykoudi](https://twitter.com/sla1) shares her first impressions using Framer X.
 -   [The Future of UI — FramerX](https://blog.prototypr.io/framer-x-preview-9d067f35cf9a) - Product Designer, [Antoine Plu](https://twitter.com/AntoinePlu) does a detailed review of the capabilities of this new tool. The article includes a screencast video, a speeded-up 3-hour stress test of Framer X.
 -   [Framer X: the hype, the powers, the challenges and the grand vision](https://uxplanet.org/framer-x-the-hype-the-powers-the-challenges-and-the-grand-vision-b718e14b3c45) - [Linton Ye](https://twitter.com/lintonye), Creator of [learnreact.design](https://learnreact.design/) speculates about the future of Framer X and how this release defines Framer as the most ambitious Design Tool of 2018.
+-   [How to create a styled-component in Framer X](https://www.zauberware.com/en/articles/2018/how-to-create-a-styled-component-in-framerx/) - [Simon Franzen](https://twitter.com/franzen_simon), software developer at [zauberware](https://twitter.com/zauberware), shows how to install [styled-components](https://github.com/styled-components/styled-components) for a Framer X project and how to create a basic button component.
+
+
 
 ### React Articles
 
