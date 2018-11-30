@@ -67,6 +67,12 @@ If you want to get started with React:
 -   [ES6 for Everyone](https://es6.io/) - Improve your core JavaScript skills and master all that ES6 has to offer, by [@wesbos](https://twitter.com/wesbos).
 -   [Introduction to ES6+](https://scrimba.com/g/gintrotoes6) - Learn modern JavaScript through 23 screencasts, by Per Harald Borgen - [Article](https://medium.freecodecamp.org/want-to-learn-es6-take-this-free-23-part-course-and-become-a-javascript-ninja-55002db1ff74).
 
+### TypeScript Refrences
+
+- [Learn TypeScript](https://www.typescriptlang.org/docs/home.html) - Main documentation for TypeScript.
+- [TypeScript Cheatsheet](https://github.com/sw-yx/react-typescript-cheatsheet) - A TypeScript cheatsheet by [@swyx] and [@islamAttrash]
+- [React + TypeScript Example](https://github.com/Microsoft/TypeScript-React-Starter) - An example React + TypeScript project.
+
 ### React based design tools, online tools and REPLs
 
 -   [Guppy](https://github.com/joshwcomeau/guppy) - A friendly application manager and task runner for React.js.
