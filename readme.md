@@ -110,6 +110,7 @@ Framer X will not have a code editor. Good news is that you can install and cust
 
 ### Framer X Articles
 
+-   [Share data between code components in Framer X](https://www.zauberware.com/en/articles/2018/share-data-between-code-components-in-framerx/) - [Simon Franzen](https://twitter.com/franzen_simon), software developer at [zauberware](https://twitter.com/zauberware), gives a step-by-step explanation how to share data between code components., Jan 04, 2019.
 -   [Professor Spot and inputs validation in Framer X](https://medium.com/@PavelLaptev/professor-spot-and-inputs-validation-in-framer-x-83da6d35f771) - Another super comprehensive (and illustrated) article by [Pavel Laptev](https://twitter.com/DarioGraphics) about form validation with React in Framer X. - Nov 12, 2018.
 -   [How to create a styled-component in Framer X](https://www.zauberware.com/en/articles/2018/how-to-create-a-styled-component-in-framerx/) - [Simon Franzen](https://twitter.com/franzen_simon), software developer at [zauberware](https://twitter.com/zauberware), shows how to install [styled-components](https://github.com/styled-components/styled-components) for a Framer X project and how to create a basic button component., Oct 20, 2018.
 -   [Building a working chat bot in Framer X](https://medium.com/@rrbarry11/building-a-working-chat-bot-in-framer-x-830aadcd98dc) - Designer [Ryan Barry](https://dribbble.com/ryanbarry) shows how to build a chat bot with Framer X. - Oct 12, 2018.
