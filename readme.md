@@ -111,6 +111,7 @@ Framer X will not have a code editor. Good news is that you can install and cust
 
 ### Framer X Articles
 
+- [Share data between code components in Framer X](https://www.zauberware.com/en/articles/2018/share-data-between-code-components-in-framerx/) - [Simon Franzen](https://twitter.com/franzen_simon), software developer at [zauberware](https://twitter.com/zauberware), gives a step-by-step explanation how to share data between code components., Jan 4, 2019.
 - [The design team wants you to use FramerX, now what?](https://medium.com/@michaelkatz_23685/the-design-team-wants-you-to-use-framerx-now-what-the-missing-guide-for-developers-dd0783b98802) - Michael Katz, a frontend developer wrote a guide for developers describing the advantages and limits of FramerX. - Jan 3, 2019.
 - [How to use custom fonts with FramerX](https://medium.com/@PavelLaptev/how-to-use-custom-fonts-with-framerx-b8ee3895cce0) -  Designer [Pavel Laptev](https://twitter.com/DarioGraphics) describes  a simple but efficient technique to embed webfonts on your FramerX project. - Dec 19, 2018.
 - [Professor Spot and inputs validation in Framer X](https://medium.com/@PavelLaptev/professor-spot-and-inputs-validation-in-framer-x-83da6d35f771) - Another super comprehensive (and illustrated) article by [Pavel Laptev](https://twitter.com/DarioGraphics) about form validation with React in Framer X. - Nov 12, 2018.
