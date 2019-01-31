@@ -26,10 +26,12 @@ If you want to get started with React:
 - [Tutorials](#tutorials)
 - [Articles](#articles)
   - [Framer X Articles](#framer-x-articles) 🆕
-  - [React Articles](#react-articles)
+  - [React & TypeScript Articles](#react-&-typescript-articles) 🆕
 - [Framer X Components & Tools](#framer-x-components--tools) 🆕
   - [Tools](#tools) 🆕
 - [Community](#other-lists-communities-meetups-and-more)
+
+- 🔜 Coming soon, Video tutorials about Framer X and React.
 
 ## Courses
 
@@ -111,6 +113,8 @@ Framer X will not have a code editor. Good news is that you can install and cust
 
 ### Framer X Articles
 
+- [Icon Property Controls in Framer X](https://medium.com/@steveruiz/icon-property-controls-in-framer-x-2f75ff4205d4) - Secret codes for spicier components. - by [Steve Ruiz](https://twitter.com/steveruizok). - Jan 10, 2019.
+- [The design team wants you to use FramerX, now what? The missing guide for developers](https://medium.com/@michaelkatz_23685/the-design-team-wants-you-to-use-framerx-now-what-the-missing-guide-for-developers-dd0783b98802) - Michael Katz explains Framer X from a developer standpoint, his experience after being asked to develop some prototyping tools for his design team. - by Michael Katz. - Jan 3, 2019.
 - [Share data between code components in Framer X](https://www.zauberware.com/en/articles/2018/share-data-between-code-components-in-framerx/) - [Simon Franzen](https://twitter.com/franzen_simon), software developer at [zauberware](https://twitter.com/zauberware), gives a step-by-step explanation how to share data between code components., Jan 4, 2019.
 - [The design team wants you to use FramerX, now what?](https://medium.com/@michaelkatz_23685/the-design-team-wants-you-to-use-framerx-now-what-the-missing-guide-for-developers-dd0783b98802) - Michael Katz, a frontend developer wrote a guide for developers describing the advantages and limits of FramerX. - Jan 3, 2019.
 - [How to use custom fonts with FramerX](https://medium.com/@PavelLaptev/how-to-use-custom-fonts-with-framerx-b8ee3895cce0) -  Designer [Pavel Laptev](https://twitter.com/DarioGraphics) describes  a simple but efficient technique to embed webfonts on your FramerX project. - Dec 19, 2018.
@@ -130,8 +134,11 @@ Framer X will not have a code editor. Good news is that you can install and cust
 - [The Future of UI — FramerX](https://blog.prototypr.io/framer-x-preview-9d067f35cf9a) - Product Designer, [Antoine Plu](https://twitter.com/AntoinePlu) does a detailed review of the capabilities of this new tool. The article includes a screencast video, a speeded-up 3-hour stress test of Framer X.
 - [Framer X: the hype, the powers, the challenges and the grand vision](https://uxplanet.org/framer-x-the-hype-the-powers-the-challenges-and-the-grand-vision-b718e14b3c45) - [Linton Ye](https://twitter.com/lintonye), Creator of [learnreact.design](https://learnreact.design/) speculates about the future of Framer X and how this release defines Framer as the most ambitious Design Tool of 2018. - Jun 22, 2018.
 
-### React Articles
+### React & TypeScript Articles
 
+- [10++ TypeScript Pro tips/patterns with (or without) React](https://medium.com/@martin_hotell/10-typescript-pro-tips-patterns-with-or-without-react-5799488d6680) - 10++ TypeScript Pro tips/patterns with (or without) React - by [Martin Hochel](https://twitter.com/martin_hotell). - Oct 29, 2018
+- [Ultimate React Component Patterns with Typescript 2.8](https://levelup.gitconnected.com/ultimate-react-component-patterns-with-typescript-2-8-82990c516935) - Ultimate React Component Patterns with Typescript 2.8 - Stateful, Stateless, Default Props, Render Callbacks, Component Injection, Generic Components, High Order Components, Controlled Components - by [Martin Hochel](https://twitter.com/martin_hotell). - Feb 28, 2018
+- [How to learn React.js in 2019](https://www.robinwieruch.de/learn-react-js/) -  a comprehensive overview of how to approach learning React without getting distracted or overwhelmed. - by [@rwieruch](https://twitter.com/rwieruch). - Jan 1, 2019
 - [React Semantic UI Tutorial for Beginners](https://www.robinwieruch.de/react-semantic-ui-tutorial/) - A tutorial to guide you through styling your React application with Semantic UI - by [@rwieruch](https://twitter.com/rwieruch). - Jan 6, 2019
 - [JavaScript fundamentals before learning React](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/) - "Often I find myself explaining more JS than React when teaching React in a workshop/online. That's why I have put all the important JS fundamentals (for React) in one extensive article" - by [@rwieruch](https://twitter.com/rwieruch).
 - [How to Learn React: A Five-Step Plan](https://www.lullabot.com/articles/how-to-learn-react) - These five steps, which should take a dedicated student about a week, will provide the foundation you need to get started, by [@\_\_jhannah](https://twitter.com/__jhannah).
