@@ -17,7 +17,7 @@ If you want to get started with React:
 
 ## Table of Contents
 
-- [Framer X Courses](#framer-x-courses) 🆕
+- [Framer X Courses](#framer-x-courses)
 - [Free React Courses](#free-react-courses)
 - [Paid React Courses](#paid-react-courses)
 - [ES6 Courses](#es6-courses)
@@ -26,12 +26,10 @@ If you want to get started with React:
 - [Tutorials](#tutorials)
 - [Articles](#articles)
   - [Framer X Articles](#framer-x-articles) 🆕
-  - [React & TypeScript Articles](#react-&-typescript-articles) 🆕
-- [Framer X Components & Tools](#framer-x-components--tools) 🆕
-  - [Tools](#tools) 🆕
+  - [React & TypeScript Articles](#react--typescript-articles) 🆕
+- [Framer X Components, Tools & Tips](#framer-x-components--tools--tips)
 - [Community](#other-lists-communities-meetups-and-more)
-
-- 🔜 Coming soon, Video tutorials about Framer X and React.
+- 🔜 Video tutorials about Framer X and React
 
 ## Courses
 
@@ -147,12 +145,16 @@ Framer X will not have a code editor. Good news is that you can install and cust
 - [9 things every React.js beginner should know](https://camjackson.net/post/9-things-every-reactjs-beginner-should-know) - A list of tips to help you get a better foundation with React by [@thecamjackson](https://twitter.com/thecamjackson).
 - [Every UI Designer needs to learn React](https://blog.continuum.cl/every-ui-designer-needs-to-learn-react-heres-why-f2b8c2ff2c86) - Why we need to transition from a screen-based approach to a component-based approach and how React can help. Article by [@shesho](https://twitter.com/shesho). – [8 React conditional rendering methods](https://blog.logrocket.com/conditional-rendering-in-react-c6b0e5af381e) - JS de veloper, [@eh3rrera](https://twitter.com/eh3rrera) covers 8 conditional rendering methods in React and concludes that the ternary operator isn’t always the way to go.
 
-## Framer X Components & Tools
+## Framer X Components, Tools & Tips
 
-### Tools
+#### Tools
 
 - [Framer Tools](https://github.com/steveruizok/framer-tools) - Create code components for your Framer X file right from the command line, created by [Steve Ruiz](https://twitter.com/steveruizok/).
 - [Framer X Build System](https://github.com/shiftsave/framerx-build-system) - A build system to transpile React components for use in Framer X - Check out the ([intro blog post](https://blog.prototypr.io/bringing-design-system-components-from-production-into-framer-x-786e89be2250)).
+
+#### Tips
+
+- [Framer X Tips](https://learnreact.design/tips) - A compilation of Framer X tricks and hidden gems, +50 so far and ground. Made by [Linton Ye](https://twitter.com/lintonye). New tips are welcomed, you can add yours using [this form](https://docs.google.com/forms/d/e/1FAIpQLSeznfS-ppvXa9cKI8v8-MRR_mIEcRJFysfRppi4JjNTPL0EKg/viewform)! 
 
 ## Other lists, communities, meetups and more.
 
