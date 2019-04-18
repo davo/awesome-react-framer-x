@@ -40,6 +40,7 @@ If you want to get started with React:
 -   🆓[Design + Code Free Framer X Course](https://designcode.io/framer-x-course) - Meng To & Team created an awesome 10 part crash course to learn all about the design & code parts of Framer X, including layouts, design components, stacks, code components, code overrides, using data on a code component and more.
 -   [Framer X + React](https://learnreact.design/framerx-react) - Linton Ye, from [learnreact.design](https://learnreact.design/) created a 5 part course to learn all about Framer X and React. The course covers the Framer X design capabilities such as frames, stacks, images, graphics, design components. The last 2 parts of the course includes code overrides for animations and creating your first React components for Framer X.
 -   [Design & Development Workflow with Framer X](https://www.lynda.com/Framer-X-tutorials/Design-Development-Workflow-Framer-X/800695-2.html) - Emmanuel Henri on Lynda.com. A deep dive into the designer to developer workflow, going over how React relates to Framer X and prototyping, as well as the proper guidelines to follow when creating designs for the web and mobile devices.
+-   [The Framer X Book](https://framerbook.com/x/) – Tes Mat put together a complete resource to teach designers two of the main aspects of Framer X, Code Components and Overrides. He expalins how Code Components work and how to customize existing components from the store, then explain how to use Overrides, one of the way to quickly make elements on your canvas interactive.
 
 ### Free React Courses
 
