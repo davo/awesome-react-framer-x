@@ -82,6 +82,8 @@ If you want to get started with React:
 
 ### Framer X Articles
 
+
+-   [Making things happen in Framer X](https://medium.com/@steveruiz/making-things-happen-in-framer-x-d579747e6d9d) - Very detailed answer to this recurring question on the Framer Slack Channel. “How do I make a user interaction with one component produce a change in a different component?” – by Framer Design Educator [Steve Ruiz](https://twitter.com/steveruizok). - Jul 05, 2019.
 -   [Going from Framer to Framer X](https://medium.com/@maxsteitle/going-from-framer-to-framer-x-166f1dcef8dd) — A simple guide for designers getting started with React and Framer X by [Max Steitle](https://twitter.com/MaxSteitle) - Apr 8, 2019
 -   [Build fast 3D map prototypes with Mapbox + Framer X](https://blog.mapbox.com/build-fast-3d-map-prototypes-with-mapbox-framer-x-df5202c5090a) - [Amy Lee Walton](https://twitter.com/amyleew) - Apr 3, 2019
 -   [Create an app from scratch using FramerX](https://medium.com/@PavelLaptev/create-an-app-from-the-stretch-using-framerx-9d15d06c8bdf) - [Pavel Laptev]() - March 30, 2019
