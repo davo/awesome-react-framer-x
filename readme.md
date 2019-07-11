@@ -1,6 +1,11 @@
 # Awesome React Framer X [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-This is an awesome list with links to courses, tutorials & videos to learn everything about [React](https://reactjs.org/) and [ES6](https://tc39.github.io/ecma262/).
+This is an awesome list with links to courses, tutorials & videos to learn everything about [React](https://reactjs.org/), [ES6](https://tc39.github.io/ecma262/) & Framer X.
+
+  
+[![Join the community](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/framer)
+[![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?color=blue&style=flat-square)](http://opensource.org/licenses/MIT)
+
 
 ## What is Framer X?
 
@@ -13,8 +18,8 @@ React components for Framer X could be written in **`TypeScript`** or **`ES6`**.
 If you want to get started with React:
 
 -   [React Docs](https://reactjs.org/docs/getting-started.html) - Make sure to check out the new React Docs. It's an overview of the most useful resources, including the [Intro to React](https://reactjs.org/tutorial/tutorial.html) tutorial.
--   [ES6 / React Cheatsheet](https://paper.dropbox.com/doc/ES6-React-Cheatsheet--Aa2OCPSNOAnhyUDegf4TpoAXAg-Th7joG9fFSSiyZgOFYqj6) – Koen Bok, found of Framer, made a super useful intro to ES6 & React for designers, covering all the essential parts [variables, functions, components, CSS, JSX and more].
--   [React for Designers](http://reactfordesigners.com/), made by [@zach\_\_johnston](https://twitter.com/zach__johnston), a quick guide to help you avoid the option paralysis.
+-   [ES6 / React Cheatsheet](https://paper.dropbox.com/doc/ES6-React-Cheatsheet--Aa2OCPSNOAnhyUDegf4TpoAXAg-Th7joG9fFSSiyZgOFYqj6) – [Koen Bok](https://twitter.com/koenbok/), founder of Framer, made a super useful intro to ES6 & React for designers, covering all the essential parts [variables, functions, components, CSS, JSX and more].
+-   [React for Designers](https://designcode.io/react-for-designers), made by [@meng_to](https://twitter.com/MengTo), a comprehensive guide intended for designers, covering everything from CSS styling to deploying your first React application.
 
 ## Table of Contents
 
