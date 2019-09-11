@@ -11,9 +11,9 @@ This is an awesome list with links to courses, tutorials & videos to learn every
 
 [Framer X](https://framer.com/x) is a powerful Interaction Design tool. Please read the **[Official Documentation](https://framer.com/docs/)**.
 
-Framer X comes with a variety of features and capabilities like a Design Store of reusable UI components (powered by NPM). On the store you will find a collection of interactive design & code components such as maps, random image generators, video and audio players, Design System Kits (iOS & Android) and more.
+Framer X comes with a variety of features and capabilities like a Design Store of reusable UI components (powered by NPM). On the store, you will find a collection of interactive design & code components such as maps, random image generators, video and audio players, Design System Kits (iOS & Android) and more.
 
-React components for Framer X could be written in **`TypeScript`** or **`ES6`**.
+React components on Framer X can be written in **`TypeScript`** and/or **`ES6`**.
 
 If you want to get started with React:
 
@@ -44,9 +44,9 @@ If you want to get started with React:
 
 -   🆓[Design + Code Free Framer X Course](https://designcode.io/framer-x-course) - Meng To & Team created an awesome 10 part crash course to learn all about the design & code parts of Framer X, including layouts, design components, stacks, code components, code overrides, using data on a code component and more.
 -   🆓[UI Interactions in Framer Playgrounds](https://designcode.io/framer-playground-ui-interactions) - Meng To & Team show how to build interactions and UI animations from scratch using React Hooks, the Framer X in-app editor, Overrides, Property Controls, Shared Colors, Variants and a whole lot more.
--   [Framer X + React](https://learnreact.design/framerx-react) - Linton Ye, from [learnreact.design](https://learnreact.design/) created a 5 part course to learn all about Framer X and React. The course covers the Framer X design capabilities such as frames, stacks, images, graphics, design components. The last 2 parts of the course includes code overrides for animations and creating your first React components for Framer X.
+-   [Framer X + React](https://learnreact.design/framerx-react) - Linton Ye, from [learnreact.design](https://learnreact.design/) created a 5 part course to learn all about Framer X and React. The course covers the Framer X design capabilities such as frames, stacks, images, graphics, design components. The last 2 parts of the course include code overrides for animations and creating your first React components for Framer X.
 -   [Design & Development Workflow with Framer X](https://www.lynda.com/Framer-X-tutorials/Design-Development-Workflow-Framer-X/800695-2.html) - Emmanuel Henri on Lynda.com. A deep dive into the designer to developer workflow, going over how React relates to Framer X and prototyping, as well as the proper guidelines to follow when creating designs for the web and mobile devices.
--   [The Framer X Book](https://framerbook.com/x/) – Tes Mat put together a complete resource to teach designers two of the main aspects of Framer X, Code Components and Overrides. He expalins how Code Components work and how to customize existing components from the store, then explain how to use Overrides, one of the way to quickly make elements on your canvas interactive.
+-   [The Framer X Book](https://framerbook.com/x/) – Tes Mat put together a complete resource to teach designers two of the main aspects of Framer X, Code Components, and Overrides. He describes how Code Components work and how to customize existing components from the store, then explain how to use Overrides, one of the ways to quickly make elements on your canvas interactive.
 
 ### Free React Courses
 
@@ -63,11 +63,11 @@ If you want to get started with React:
 ### Paid React Courses
 
 -   [React for Designers](https://designcode.io/react) - A 6-hour React course for designers, by designers. React for Designers is a free update, with a Design+Code account.
--   [Learn React](https://learnreact.design/) - Unleash Your Design Superpowers with this straightforward, with just enough JS, focused on UI design, layouts, styles and animations, by [@lintonye](https://twitter.com/lintonye).
+-   [Learn React](https://learnreact.design/) - Unleash Your Design Superpowers with this straightforward, with just enough JS, focused on UI design, layouts, styles, and animations, by [@lintonye](https://twitter.com/lintonye).
 -   [React For Beginners](https://reactforbeginners.com/) - [Source Code](https://github.com/wesbos/React-For-Beginners-Starter-Files) - Learn React.js in just a couple of afternoons, by [@wesbos](https://twitter.com/wesbos).
 -   [Essential React 2018](https://learnreact.com/lessons/2018-essential-react-1-overview) - A crash course for doers, moving fast from "Hello World" to advanced component composition, by [@chantastic](https://twitter.com/chantastic). Some sections of this course are free.
 -   [Udemy: The Complete React Web Developer Course (with Redux)](https://www.udemy.com/react-2nd-edition/) - Learn how to build and launch React web applications using React v16.
--   [Udemy: Modern React with Redux](https://www.udemy.com/react-redux/) - Fundamentals of React, Redux, React Router, Webpack and ES6, by [@ste_grider](https://twitter.com/ste_grider)
+-   [Udemy: Modern React with Redux](https://www.udemy.com/react-redux/) - Fundamentals of React, Redux, React Router, Webpack, and ES6, by [@ste_grider](https://twitter.com/ste_grider)
 -   [Treehouse: Learn React:](https://teamtreehouse.com/tracks/learn-react) - Get up and running with React, a JavaScript library for building user interfaces, by [@jimrhoskins](https://twitter.com/jimrhoskins).
 -   [Frontend Masters: Complete Intro to React, v3 (feat. Redux, Router & Flow)](https://frontendmasters.com/courses/react/) - Learn how to build real-world applications with React with Brian Holt.
 
@@ -87,8 +87,7 @@ If you want to get started with React:
 
 ### Framer X Articles
 
-
--   [Making things happen in Framer X](https://medium.com/@steveruiz/making-things-happen-in-framer-x-d579747e6d9d) - Very detailed answer to this recurring question on the Framer Slack Channel. “How do I make a user interaction with one component produce a change in a different component?” – by Framer Design Educator [Steve Ruiz](https://twitter.com/steveruizok). - Jul 05, 2019.
+-   [Making things happen in Framer X](https://medium.com/@steveruiz/making-things-happen-in-framer-x-d579747e6d9d) - A very detailed answer to this recurring question on the Framer Slack Channel. “How do I make user interaction with one component produce a change in a different component?” – by Framer Design Educator [Steve Ruiz](https://twitter.com/steveruizok). - Jul 05, 2019.
 -   [Going from Framer to Framer X](https://medium.com/@maxsteitle/going-from-framer-to-framer-x-166f1dcef8dd) — A simple guide for designers getting started with React and Framer X by [Max Steitle](https://twitter.com/MaxSteitle) - Apr 8, 2019
 -   [Build fast 3D map prototypes with Mapbox + Framer X](https://blog.mapbox.com/build-fast-3d-map-prototypes-with-mapbox-framer-x-df5202c5090a) - [Amy Lee Walton](https://twitter.com/amyleew) - Apr 3, 2019
 -   [Create an app from scratch using FramerX](https://medium.com/@PavelLaptev/create-an-app-from-the-stretch-using-framerx-9d15d06c8bdf) - [Pavel Laptev]() - March 30, 2019
@@ -98,7 +97,7 @@ If you want to get started with React:
 -   [How to pass text input to another screen in Framer X](https://medium.com/@lindforsadam/how-to-pass-text-input-to-another-screen-in-framer-x-bed88318704c) - [Adam Lindfors]() - March 19, 2019
 -   [Wide-Gamut Colors in Framer X](https://medium.com/@gusso/wide-gamut-colors-in-framer-x-5b07aa0012af) - [Henrique Gusso](https://twitter.com/gusso) - March 18, 2019
 -   [Framer X: Prototype with Accelerometer, Gyroscope and No Code](https://blog.prototypr.io/framer-x-prototype-with-accelerometer-gyroscope-and-no-code-92fb9e26ffb5) - by [Stefanos Kofopoulos](https://twitter.com/titanas) - March 8, 2019
--   🔥[React for Web Designers](https://www.framer.com/blog/posts/react-for-web-designers) - [Koen Bok](https://twitter.com/koenbok) - Feb 27, 2019
+-   [React for Web Designers](https://www.framer.com/blog/posts/react-for-web-designers) - [Koen Bok](https://twitter.com/koenbok) - Feb 27, 2019
 -   [Simulate Media Query in Framer X](https://medium.com/@poyichen/simulate-media-query-in-framer-x-710337ffd2ee) - [Poyi Chen]() - Feb 23, 2019
 -   [Framer X: TechCrunch Mobile Site Prototype with No Code](https://blog.prototypr.io/framer-x-techcrunch-mobile-site-prototype-with-no-code-1c568b403e03) - by [Stefanos Kofopoulos](https://twitter.com/titanas) - Feb 18, 2019
 -   [Creating my first Framer X code component](https://medium.com/@_louimoody/creating-my-first-framer-x-code-component-ca1d4b9ab77) - [Louis Moody]() - Feb 14, 2019
@@ -107,8 +106,8 @@ If you want to get started with React:
 -   [Framer X: Conditional rendering for design & code components](https://blog.prototypr.io/framer-x-conditional-rendering-for-design-code-components-ba4cb5cb00cd) - [Chris Robinson]() - Feb 6, 2019
 -   [Icon Property Controls in Framer X](https://medium.com/@steveruiz/icon-property-controls-in-framer-x-2f75ff4205d4) - Secret codes for spicier components. - by [Steve Ruiz](https://twitter.com/steveruizok). - Jan 10, 2019.
 -   [The design team wants you to use Framer X, now what? The missing guide for developers](https://medium.com/@michaelkatz_23685/the-design-team-wants-you-to-use-framerx-now-what-the-missing-guide-for-developers-dd0783b98802) - Michael Katz explains Framer X from a developer standpoint, his experience after being asked to develop some prototyping tools for his design team. - by Michael Katz. - Jan 3, 2019.
--   [Share data between code components in Framer X](https://www.zauberware.com/en/articles/2018/share-data-between-code-components-in-framerx/) - [Simon Franzen](https://twitter.com/franzen_simon), software developer at [zauberware](https://twitter.com/zauberware), gives a step-by-step explanation how to share data between code components., Jan 4, 2019.
--   [How to use custom fonts with Framer X](https://medium.com/@PavelLaptev/how-to-use-custom-fonts-with-framerx-b8ee3895cce0) - Designer [Pavel Laptev](https://twitter.com/DarioGraphics) describes a simple but efficient technique to embed webfonts on your FramerX project. - Dec 19, 2018.
+-   [Share data between code components in Framer X](https://www.zauberware.com/en/articles/2018/share-data-between-code-components-in-framerx/) - [Simon Franzen](https://twitter.com/franzen_simon), software developer at [zauberware](https://twitter.com/zauberware), gives a step-by-step explanation of how to share data between code components., Jan 4, 2019.
+-   [How to use custom fonts with Framer X](https://medium.com/@PavelLaptev/how-to-use-custom-fonts-with-framerx-b8ee3895cce0) - Designer [Pavel Laptev](https://twitter.com/DarioGraphics) describes a simple but efficient technique to embed web fonts on your FramerX project. - Dec 19, 2018.
 -   [Professor Spot and inputs validation in Framer X](https://medium.com/@PavelLaptev/professor-spot-and-inputs-validation-in-framer-x-83da6d35f771) - Another super comprehensive (and illustrated) article by [Pavel Laptev](https://twitter.com/DarioGraphics) about form validation with React in Framer X. - Nov 12, 2018.
 -   [How to create a styled-component in Framer X](https://www.zauberware.com/en/articles/2018/how-to-create-a-styled-component-in-framerx/) - [Simon Franzen](https://twitter.com/franzen_simon), software developer at [zauberware](https://twitter.com/zauberware), shows how to install [styled-components](https://github.com/styled-components/styled-components) for a Framer X project and how to create a basic button component., Oct 20, 2018.
 -   [Building a working chat bot in Framer X](https://medium.com/@rrbarry11/building-a-working-chat-bot-in-framer-x-830aadcd98dc) - Designer [Ryan Barry](https://dribbble.com/ryanbarry) shows how to build a chat bot with Framer X. - Oct 12, 2018.
@@ -141,6 +140,7 @@ If you want to get started with React:
 
 ### React based design tools, online tools and REPLs
 
+-   [Framer Next](https://framernext.tech/) - A technical showcase of the Framer API Examples implemented within a production React application environment. Created by [@nataliemarleny](https://twitter.com/nataliemarleny).
 -   [Transform](https://transform.now.sh/) - Tool to transform JS objects to get something useful [CSS-to-JS, CSS-to-Emotion, HTML-to-JSX and many more]. [Source](https://github.com/transform-it/transform-www).
 -   [Guppy](https://github.com/joshwcomeau/guppy) - A friendly application manager and task runner for React.js.
 -   [Iso](https://compositor.io/iso/) - Build and prototype with pure JSX – no build setup or command line required.
