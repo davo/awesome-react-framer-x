@@ -15,11 +15,14 @@ Framer X comes with a variety of features and capabilities like a Design Store o
 
 React components on Framer X can be written in **`TypeScript`** and/or **`ES6`**.
 
-If you want to get started with React:
+### Getting started with React
 
 -   [React Docs](https://reactjs.org/docs/getting-started.html) - Make sure to check out the new React Docs. It's an overview of the most useful resources, including the [Intro to React](https://reactjs.org/tutorial/tutorial.html) tutorial.
--   [ES6 / React Cheatsheet](https://paper.dropbox.com/doc/ES6-React-Cheatsheet--Aa2OCPSNOAnhyUDegf4TpoAXAg-Th7joG9fFSSiyZgOFYqj6) – [Koen Bok](https://twitter.com/koenbok/), founder of Framer, made a super useful intro to ES6 & React for designers, covering all the essential parts [variables, functions, components, CSS, JSX and more].
--   [React for Designers](https://designcode.io/react-for-designers), made by [@meng_to](https://twitter.com/MengTo), a comprehensive guide intended for designers, covering everything from CSS styling to deploying your first React application.
+-   [ES6 / React Cheatsheet](https://paper.dropbox.com/doc/ES6-React-Cheatsheet--Aa2OCPSNOAnhyUDegf4TpoAXAg-Th7joG9fFSSiyZgOFYqj6) by [Koen Bok](https://twitter.com/koenbok/), founder of Framer, made a super useful intro to ES6 & React for designers, covering all the essential parts [variables, functions, components, CSS, JSX and more].
+
+### For advanced React & Framer X users
+
+- Checkout the paper doc [An (Advanced) Guide to Code Components](https://paper.dropbox.com/doc/An-Advanced-Guide-to-Code-Components--AkrUh5o0qsAMw39IZj21hI0xAg-RYstwIIkmNbB5jPEQdgGz) by [Steve Ruiz](https://github.com/steveruizok/).
 
 ## Table of Contents
 
@@ -59,6 +62,8 @@ If you want to get started with React:
 -   [React Armory Learn React by Itself](https://reactarmory.com/guides/learn-react-by-itself) - Learn React without the buzzwords, by [@james_k_nelson](https://twitter.com/james_k_nelson).
 -   [Free React boot camp](https://tylermcginnis.com/free-react-bootcamp/) - All of the recordings, links, and assignments from the "Free React.js Bootcamp", streamed live and recorded on during April 2018 by [@tylermcginnis](https://twitter.com/tylermcginnis).
 -   [React Rapid Course](https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b) - This React Course will help you get quickly up to pace with React.js development - [Source Code](https://github.com/learncodeacademy/react-js-tutorials).
+-   [React for Designers](https://designcode.io/react-for-designers), made by [@meng_to](https://twitter.com/MengTo), a comprehensive guide intended for designers, covering everything from CSS styling to deploying your first React application.
+
 
 ### Paid React Courses
 
