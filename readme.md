@@ -128,6 +128,7 @@ React components on Framer X can be written in **`TypeScript`** and/or **`ES6`**
 -   [‪Framer X Beta: My first week‬](https://blog.prototypr.io/framer-x-beta-my-first-week-3afea1ec48ab) - Web & motion designer [Athanasia Lykoudi](https://twitter.com/sla1) shares her first impressions using Framer X. Aug 12, 2018.
 -   [The Future of UI  —  Framer X](https://blog.prototypr.io/framer-x-preview-9d067f35cf9a) - Product Designer, [Antoine Plu](https://twitter.com/AntoinePlu) does a detailed review of the capabilities of this new tool. The article includes a screencast video, a speeded-up 3-hour stress test of Framer X.
 -   [Framer X: the hype, the powers, the challenges and the grand vision](https://uxplanet.org/framer-x-the-hype-the-powers-the-challenges-and-the-grand-vision-b718e14b3c45) - [Linton Ye](https://twitter.com/lintonye) speculates about the future of Framer X and how this release defines Framer as the most ambitious Design Tool of 2018. - Jun 22, 2018.
+-   [Building a Design System Ui Component Using Framer X](https://medium.com/harbor-school/building-a-design-system-ui-component-using-framer-x-59ad2ac7292e) - [ruucm](https://twitter.com/ruucm) wrote a simple article about how to make Design System Component using Framer X. - Jun 1, 2019.
 
 ### React & TypeScript Articles
 
