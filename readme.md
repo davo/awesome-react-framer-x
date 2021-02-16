@@ -2,9 +2,8 @@
 
 This is an awesome list with links to courses, tutorials & videos to learn everything about [React](https://reactjs.org/), [ES6](https://tc39.github.io/ecma262/) & Framer X.
 
-  
-[![Join the community](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/framer)
-[![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?color=blue&style=flat-square)](http://opensource.org/licenses/MIT)
+
+[![Join the community on Discord](https://img.shields.io/discord/341919693348536320?color=%2309f&label=join&logo=framer&logoColor=%23fff)](https://www.framer.com/r/discord) [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?color=blue&style=flat-square)](http://opensource.org/licenses/MIT)
 
 
 ## What is Framer X?
